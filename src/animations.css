@@ -1,0 +1,8 @@
+/* Define .slow-fade using view transition classes */
+::view-transition-old(.slow-fade) {
+    animation-duration: 500ms;
+}
+
+::view-transition-new(.slow-fade) {
+    animation-duration: 500ms;
+}
